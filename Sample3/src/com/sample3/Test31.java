@@ -14,6 +14,7 @@ public class Test31 {
 		System.out.println("test35");
 		System.out.println("test34");
 		System.out.println("test36");
+		System.out.println("test37");
 
 	}
 
